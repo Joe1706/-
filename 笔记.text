@@ -1,0 +1,7 @@
+本地项目部署到github：
+echo "# Symfony" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Joe1706/Symfony.git
+git push -u origin master
